@@ -1,4 +1,4 @@
-# Music Dashboar
+# Music Dashboard
 
 **Music Dashboard** is a C# application designed to organize and manage music tracks, podcasts, and other audio files. It offers an efficient way to categorize and handle audio content with a clean, modular structure.
 
