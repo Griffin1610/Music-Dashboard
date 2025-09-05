@@ -1,0 +1,22 @@
+Track,Bohemian Rhaspsody,Queen,A Night at the Opera,1975,355,17,https://www.youtube.com/watchv=fJ9rUzIMcZQ&ab_channel=QueenOfficial,https://upload.wikimedia.org/wikipedia/en/4/4d/Queen_A_Night_At_The_Opera.png
+Track,Good Vibrations,The Beach Boys,Good Vibrations,1966,225,7,https://www.youtube.com/watch?v=apBWI6xrbLY&ab_channel=TheBeachBoysVEVO,https://en.wikipedia.org/wiki/Good_Vibrations#/media/File:Good_Vibrations_single.jpg
+Track,Hey Jude,The Beatles,Hey Jude,1968,432,7,https://www.youtube.com/watch?v=A_MjCqQoLLA&ab_channel=TheBeatlesVEVO,https://en.wikipedia.org/wiki/Hey_Jude#/media/File:Heyjude1.png
+Track,Imagine,John Lennon,Imagine,1971,183,3,https://www.youtube.com/watch?v=YkgkThdzX-8&ab_channel=johnlennon,https://en.wikipedia.org/wiki/Imagine_(song)#/media/File:Lennon_Imagine_Sleeve_1975.jpg
+Track,Hotel California,Eagles,Hotel California,1976,390,37,https://www.youtube.com/watch?v=09839DpTctU&ab_channel=Eagles,null
+Track,Like a Rolling Stone,Bob Dylan,Highway 61 Revisited,1965,369,1,https://www.youtube.com/watch?v=IwOfCgkyEj0&ab_channel=BobDylanVEVO,null
+Track,Billie Jean,Michael Jackson,Thriller,1982,294,58,https://www.youtube.com/watch?v=Zi_XLOBDo_Y&ab_channel=michaeljacksonVEVO,https://en.wikipedia.org/wiki/Billie_Jean#/media/File:Billie_Jean_US_7-inch_vinyl_Side-A.jpg
+Track,Sweet Child O' Mine,Guns N' Roses,Appetite for Destruction,1987,356,88,https://www.youtube.com/watch?v=1w7OgIMMRc4&ab_channel=GunsNRosesVEVO,null
+Track,Stairway to Heaven,Led Zeppelin,Led Zeppelin IV,1971,482,61,https://www.youtube.com/watch?v=QkF3oxziUI4&ab_channel=LedZeppelin,null
+Track,I Want to Break Free,Queen,The Works,1984,233,94,https://www.youtube.com/watch?v=2ZBtPf7FOoM&ab_channel=QueenOfficial,https://en.wikipedia.org/wiki/I_Want_to_Break_Free#/media/File:I_Want_to_Break_Free_by_Queen.jpg
+Audio,The Hunger Games,Suzanne Collins,2017,635,4.7,https://www.youtube.com/watch?v=BtFJYFfhQkw&ab_channel=%D8%A7%D8%B3%D8%A7%D9%85%D9%87%D9%85%D8%AD%D9%85%D8%AF%7COsamaMohamedaudiobooks
+Audio,To Kill a Mockingbird,Harper Lee,2015,781,4.8,https://www.youtube.com/watch?v=XODFEs8Gspk&ab_channel=Auditorybooks%28Audiobooks%29
+Audio,1984,George Orwell,2018,734,4.6,https://www.youtube.com/watch?v=_ikc08cytfE&ab_channel=%5BGIRTH%5DFreeaudiobooks
+Audio,Becoming,Michelle Obama,2018,1143,4.9,https://www.youtube.com/watch?v=g-RZPP9L6yM&ab_channel=MasterAfle
+Audio,The Hobbit,J.R.R. Tolkien,2012,681,4.8,https://www.youtube.com/watch?v=vP_kzQ0Zq7Q&ab_channel=BillionaireBlair
+Podcast,The Daily,The New York Times,2017,20,8.9,https://www.youtube.com/watch?v=-o1bcfs2xHc&ab_channel=NewYorkTimesPodcasts
+Podcast,Serial,Sarah Koenig,2014,50,9.3,https://www.youtube.com/watch?v=nMSxiHuDa00&ab_channel=PodcastCentral
+Podcast,Stuff You Should Know,Josh Clark and Chuck Bryant,2008,45,8.7,https://www.youtube.com/watch?v=nAe-xTL13Pg&list=PL6NmnwdNzZJtKvy-7jRXLAPeen7O-wAoK&ab_channel=StuffYouShouldKnow
+Podcast,Joe Rogan Experience,Joe Rogan,2009,180,7.8,https://www.youtube.com/watch?v=dpx_2eUyvqc&ab_channel=PowerfulJRE
+Podcast,Science Vs,Wendy Zukerman,2016,30,9.1,https://www.youtube.com/watch?v=jXy5EJ-z_Tk&ab_channel=TalkNerdywithCaraSantaMaria
+
+Track,Shook Ones Part II,Mobb Deep,The Infamous,1995,264,215,https://www.youtube.com/watch?v=yoYZf-lBF_U,https://tinyurl.com/5y8phad4

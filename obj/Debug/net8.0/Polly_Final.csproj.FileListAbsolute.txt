@@ -1,0 +1,14 @@
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/bin/Debug/net8.0/Polly_Final
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/bin/Debug/net8.0/Polly_Final.deps.json
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/bin/Debug/net8.0/Polly_Final.runtimeconfig.json
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/bin/Debug/net8.0/Polly_Final.dll
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/bin/Debug/net8.0/Polly_Final.pdb
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/Polly_Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/Polly_Final.AssemblyInfoInputs.cache
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/Polly_Final.AssemblyInfo.cs
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/Polly_Final.csproj.CoreCompileInputs.cache
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/Polly_Final.dll
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/refint/Polly_Final.dll
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/Polly_Final.pdb
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/Polly_Final.genruntimeconfig.cache
+/Users/griffinpolly/Downloads/CSS221/POLLY_CS221FINAL/Polly_Final/obj/Debug/net8.0/ref/Polly_Final.dll
